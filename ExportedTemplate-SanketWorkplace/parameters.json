@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "workspaces_synapse_course_ws_shk_name": {
+            "value": null
+        },
+        "storageAccounts_synapsecoursedlshk11_name": {
+            "value": null
+        },
+        "databaseAccounts_synapse_course_shk_name": {
+            "value": null
+        }
+    }
+}
